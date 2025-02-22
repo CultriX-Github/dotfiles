@@ -8,7 +8,7 @@ bindsym {
     $mod+Return exec $term
     $mod+space exec $menu
     $mod+Shift+c reload    
-    $mod+Shift+Ctrl+c exec rcup -d ~/meta/simskij/dotfiles/rcm && swaymsg reload    
+    $mod+Shift+Ctrl+c exec rcup -d ~/meta/CultriX-Github/dotfiles/rcm && swaymsg reload    
     $mod+Left focus left
     $mod+Down focus down
     $mod+Up focus up
